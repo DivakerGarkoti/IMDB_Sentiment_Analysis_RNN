@@ -29,3 +29,7 @@ The IMDB dataset is automatically loaded via `tensorflow.keras.datasets.imdb`. I
 - `main.py` – Streamlit web app for entering and classifying movie reviews
 - `model.h5` – Trained Keras RNN model file
 - `README.md` – Project documentation
+
+## Running the Project
+ cmd - streamlit run main.py
+  
